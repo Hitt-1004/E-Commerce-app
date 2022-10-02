@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Iphone12",
+      "desc": "Apple Iphone 12th Generation",
+      "price": 62990,
+      "color": "#33505a",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-blue-hero?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1604021661000"
+    },
+    {
+      "id": 2,
+      "name": "Pixel 6",
+      "desc": "Google Pixel phone ",
+      "price": 44950,
+      "color": "00ac51",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-6a.jpg"
+    },
+    {
+      "id": 3,
+      "name": "OnePlus Nord CE2",
+      "desc": "OnePlus Nord 5G smartphone",
+      "price": 21999,
+      "color": "#33505a",
+      "image": "https://oasis.opstatics.com/content/dam/oasis/page/2021/ebba/spec/Charcoal-Ink.png"
+    },
+    {
+      "id": 4,
+      "name": "HP Pavilion",
+      "desc": "HP Pavilion gaming pc with Ryzen 5 hexacore processor",
+      "price": 59590,
+      "color": "#33505a",
+      "image": "https://in-media.apjonlinecdn.com/catalog/product/c/0/c06404594_1_1_1.png"
+    },
+    {
+      "id": 5,
+      "name": "Playstation 5",
+      "desc": "Sony Playstation 5th generation",
+      "price": 40000,
+      "color": "#544ee4",
+      "image": "https://gmedia.playstation.com/is/image/SIEPDC/playstation-5-with-dualsense-front-product-shot-01-ps5-en-30jul20?$native--t$"
+    },
+    {
+      "id": 6,
+      "name": "iPad Pro",
+      "desc": "Apple iPad Pro 2020 edition",
+      "price": 63920,
+      "color": "#f73984",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-12-select-wifi-silver-202003_FMT_WHH?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1583551131102"
+    }
+  ]
+}
