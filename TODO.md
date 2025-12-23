@@ -1,6 +1,0 @@
-- [ ] Update README.md with project title and description
-- [ ] Add features section
-- [ ] Add technologies section
-- [ ] Add installation instructions
-- [ ] Add usage instructions
-- [ ] Add screenshots or additional sections if needed
